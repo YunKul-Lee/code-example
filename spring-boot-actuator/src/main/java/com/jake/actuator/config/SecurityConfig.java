@@ -29,9 +29,8 @@ public class SecurityConfig {
 
         http
                 .authorizeHttpRequests(request -> {
-                    request.requestMatchers("/actuator/**").authenticated();
                     request.requestMatchers("/actuator/**").hasRole("ACTUATOR");
-                    request.anyRequest().permitAll();
+                    request.anyRequest().authenticated();
                 })
                 .authenticationManager(authenticationManager)
                 .httpBasic(Customizer.withDefaults())
