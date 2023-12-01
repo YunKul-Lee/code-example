@@ -22,5 +22,6 @@ management:
           - beans
       # CORS ??
       cors:
-        allowed-origins: http://localhost, http:test.com
+        allowed-origins: http://localhost:8080, http://localhost, http:test.com
         allowed-methods: GET
+
