@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/code-example.iml" filepath="$PROJECT_DIR$/code-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-actuator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-actuator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-redis-om.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-redis-om.main.iml" />
     </modules>
   </component>
 </project>
