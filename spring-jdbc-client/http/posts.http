@@ -1,0 +1,18 @@
+###
+GET http://localhost:8080/api/posts
+
+
+
+###
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+
+{
+  "id": "bba41253beec8401d09e9cd31c0c619",
+  "title": "Blog Post Title",
+  "slug": "post slug",
+  "date": "2023-12-05",
+  "timeToRead": 57,
+  "tags": "post"
+}
+
