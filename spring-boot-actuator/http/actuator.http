@@ -1,0 +1,5 @@
+GET http://localhost:8080/actuator
+
+###
+GET http://localhost:8080/actuator/health
+Authorization: Basic {{username}} {{password}}
