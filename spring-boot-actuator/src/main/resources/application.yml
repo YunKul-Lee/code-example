@@ -12,6 +12,24 @@ management:
     heapdump:
       enabled: true
 
+    env:
+      show-values: when_authorized
+
+
+  info:
+    env:
+      enabled: true
+    java:
+      enabled: true
+    build:
+      enabled: true
+    git:
+      enabled: true
+      mode: simple # full
+    os:
+      enabled: true
+
+
 
   # expose
   endpoints:
