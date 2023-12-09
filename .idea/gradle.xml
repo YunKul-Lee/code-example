@@ -57,6 +57,15 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-websocket" />
+        <option name="gradleJvm" value="21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-websocket" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
