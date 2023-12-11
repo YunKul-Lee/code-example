@@ -37,8 +37,8 @@ management:
       exposure:
         include: "*"
         # exclude ? include ?? ???? ??
-        exclude:
-          - beans
+#        exclude:
+#          - beans
       # CORS ??
       cors:
         allowed-origins: http://localhost:8080, http://localhost, http:test.com
