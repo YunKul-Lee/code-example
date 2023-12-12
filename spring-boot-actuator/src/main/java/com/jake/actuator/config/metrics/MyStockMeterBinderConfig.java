@@ -1,4 +1,4 @@
-package com.jake.actuator.config;
+package com.jake.actuator.config.metrics;
 
 import com.jake.actuator.metrics.MyStockManager;
 import io.micrometer.core.instrument.Gauge;
