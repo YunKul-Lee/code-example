@@ -1,0 +1,37 @@
+POST http://localhost:8080/api/v1/users/cache
+Content-Type: application/json
+
+{
+  "name": "Jake",
+  "city": "Seoul"
+}
+
+###
+
+POST http://localhost:8080/api/v1/users/cache
+Content-Type: application/json
+
+{
+  "name": "Harry",
+  "city": "Edinburgh"
+}
+
+###
+
+POST http://localhost:8080/api/v1/users/cache
+Content-Type: application/json
+
+{
+  "name": "Susie",
+  "city": "NewYork"
+}
+
+###
+
+POST http://localhost:8080/api/v1/users/cache
+Content-Type: application/json
+
+{
+  "name": "Tony",
+  "city": "LA"
+}
