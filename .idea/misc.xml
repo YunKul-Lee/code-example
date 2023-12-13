@@ -7,6 +7,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-actuator" />
     <file type="web" url="file://$PROJECT_DIR$/spring-jdbc-client" />
     <file type="web" url="file://$PROJECT_DIR$/spring-redis-cache" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-redis-cluster" />
     <file type="web" url="file://$PROJECT_DIR$/spring-redis-om" />
     <file type="web" url="file://$PROJECT_DIR$/spring-websocket" />
   </component>
