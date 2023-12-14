@@ -23,8 +23,9 @@ public class MyCustomHealthIndicator implements HealthIndicator {
     }
 
     private boolean getStatus() {
-        if ( System.currentTimeMillis() % 2 == 0 ) return true;
-
-        return false;
+        return true;
+//        if ( System.currentTimeMillis() % 2 == 0 ) return true;
+//
+//        return false;
     }
 }
