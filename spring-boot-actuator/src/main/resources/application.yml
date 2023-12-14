@@ -44,3 +44,10 @@ management:
         allowed-origins: http://localhost:8080, http://localhost, http:test.com
         allowed-methods: GET
 
+
+spring:
+  boot:
+    admin:
+      client:
+        url:
+          - 127.0.0.1:9090
