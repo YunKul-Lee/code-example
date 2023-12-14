@@ -23,6 +23,7 @@ ext {
 
 dependencies {
     implementation 'de.codecentric:spring-boot-admin-starter-server'
+    runtimeOnly 'io.netty:netty-resolver-dns-native-macos:4.1.102.Final:osx-aarch_64'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
