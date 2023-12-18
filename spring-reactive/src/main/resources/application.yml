@@ -1,1 +1,14 @@
+spring:
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/reactive_student_db
+    username: postgres
+    password: secret
 
+  flyway:
+    user: postgres
+    password: secret
+    url: jdbc:postgresql://localhost:5432/reactive_student_db
+
+  docker:
+    compose:
+      file: ./spring-reactive/compose.yaml

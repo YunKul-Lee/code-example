@@ -12,6 +12,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-docker-compose-support" target="17" />
+      <module name="spring-docker-compose-support.main" target="17" />
+      <module name="spring-docker-compose-support.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
