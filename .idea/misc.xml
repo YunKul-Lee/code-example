@@ -8,6 +8,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-admin-server" />
     <file type="web" url="file://$PROJECT_DIR$/spring-docker-compose-support" />
     <file type="web" url="file://$PROJECT_DIR$/spring-jdbc-client" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-reactive" />
     <file type="web" url="file://$PROJECT_DIR$/spring-redis-cache" />
     <file type="web" url="file://$PROJECT_DIR$/spring-redis-cluster" />
     <file type="web" url="file://$PROJECT_DIR$/spring-redis-om" />
