@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/code-example.iml" filepath="$PROJECT_DIR$/code-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-actuator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-actuator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-docker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-docker.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-reactive.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-reactive.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-redis-om.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-redis-om.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-websocket.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-websocket.main.iml" />
