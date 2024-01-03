@@ -1,4 +1,4 @@
-FROM gradle:8.5-jdk-alpine AS builder
+FROM gradle:8.5.0 AS builder
 
 # 빌드 디렉토리 정의
 WORKDIR /build
@@ -8,17 +8,19 @@ COPY build.gradle settings.gradle /build/
 RUN gradle build -x test --parallel --continue > /dev/null 2>&1 || true
 
 COPY . /build
-RUN gradle clean build --no-daemon
+RUN gradle clean build --parallel
 
 # base image
 FROM amazoncorretto:17
+WORKDIR /app
 
 # JAR file path
-ARG JAR_FILE=build/libs/*.jar
+ARG JAR_FILE=/build/build/libs/*.jar
 
 # Copy JAR file from the build context into Docker image
-COPY ${JAR_FILE} application.jar
+COPY --from=builder ${JAR_FILE} /application.jar
 
 CMD apt-get update -y
 
+USER nobody
 ENTRYPOINT ["java", "-Xmx2048M", "-jar", "/application.jar"]

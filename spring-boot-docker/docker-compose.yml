@@ -2,10 +2,11 @@ version: '3.8'
 
 services:
   app:
+#    platform: linux/amd64
     image: 'docker-spring-boot-postgres:latest'
     build:
       context: .
-#      dockerfile: Dockerfile
+      dockerfile: Dockerfile
     container_name: app
     depends_on:
       - db
@@ -20,6 +21,7 @@ services:
       - "8080:8080"
 
   db:
+#    platform: linux/amd64
     image: postgres
     container_name: db
     environment:
