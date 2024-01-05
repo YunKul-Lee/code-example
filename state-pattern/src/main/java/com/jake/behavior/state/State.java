@@ -1,4 +1,4 @@
-package com.jake.behavior.persistence.state;
+package com.jake.behavior.state;
 
 public interface State<T> {
 

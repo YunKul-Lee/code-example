@@ -1,4 +1,4 @@
-package com.jake.behavior.persistence.state;
+package com.jake.behavior.state;
 
 import com.jake.behavior.persistence.model.Customer;
 import org.springframework.stereotype.Component;

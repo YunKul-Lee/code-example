@@ -1,7 +1,7 @@
 package com.jake.behavior.persistence.model;
 
-import com.jake.behavior.persistence.state.ActiveState;
-import com.jake.behavior.persistence.state.State;
+import com.jake.behavior.state.ActiveState;
+import com.jake.behavior.state.State;
 import jakarta.persistence.*;
 import lombok.Data;
 import lombok.Setter;
