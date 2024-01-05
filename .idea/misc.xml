@@ -17,6 +17,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring-redis-cluster" />
     <file type="web" url="file://$PROJECT_DIR$/spring-redis-om" />
     <file type="web" url="file://$PROJECT_DIR$/spring-websocket" />
+    <file type="web" url="file://$PROJECT_DIR$/state-pattern" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
