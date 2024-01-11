@@ -10,6 +10,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-docker" />
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-docker-compose-support" />
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-security" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-sse" />
     <file type="web" url="file://$PROJECT_DIR$/spring-docker-compose-support" />
     <file type="web" url="file://$PROJECT_DIR$/spring-jdbc-client" />
     <file type="web" url="file://$PROJECT_DIR$/spring-reactive" />
