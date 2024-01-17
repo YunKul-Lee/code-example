@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/jdk21" />
+    <file type="web" url="file://$PROJECT_DIR$/measure-execution-time" />
     <file type="web" url="file://$PROJECT_DIR$/spring-ai" />
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-actuator" />
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-admin-server" />
