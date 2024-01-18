@@ -12,6 +12,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-aws-sqs" />
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-docker" />
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-docker-compose-support" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-logging" />
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-security" />
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-security-mfa" />
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-sse" />
