@@ -1,0 +1,10 @@
+spring:
+  data:
+    redis:
+      host: localhost
+      port: 6379
+
+twilio:
+  account-sid: your_account_sid
+  auth-token: your_auth_token
+  phone-number: 01012349876

@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-actuator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-actuator.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-docker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-docker.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-logging.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-logging.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-sse.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-sse.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-reactive.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-reactive.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-redis-om.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-redis-om.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-websocket.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-websocket.main.iml" />
