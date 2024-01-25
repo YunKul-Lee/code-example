@@ -22,6 +22,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring-redis-cache" />
     <file type="web" url="file://$PROJECT_DIR$/spring-redis-cluster" />
     <file type="web" url="file://$PROJECT_DIR$/spring-redis-om" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-redis-otp" />
     <file type="web" url="file://$PROJECT_DIR$/spring-websocket" />
     <file type="web" url="file://$PROJECT_DIR$/state-pattern" />
   </component>
