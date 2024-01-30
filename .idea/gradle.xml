@@ -76,6 +76,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-boot-cache" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-boot-cache" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/spring-boot-docker" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
