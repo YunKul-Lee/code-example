@@ -19,7 +19,7 @@ public class XmlConfiguration {
     @PostConstruct
     public void loadXmlData() {
         try {
-            File xmlFile = Paths.get(System.getProperty("user.dir"), "src/main/resources/config.xml").toFile();
+            File xmlFile = Paths.get(System.getProperty("user.dir"), "spring-boot-cache/src/main/resources/config.xml").toFile();
             XmlMapper xmlMapper = new XmlMapper();
 
             Concepts concepts = xmlMapper.readValue(xmlFile, Concepts.class);
